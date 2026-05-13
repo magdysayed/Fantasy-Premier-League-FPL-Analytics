@@ -56,16 +56,13 @@ Analysis of the top 10 elite performers and price vs points distribution.
 
 Identifying the most efficient "Value for Money" players and high-impact offensive threats.
 ![Value Analysis](Images/Screenshot%202026-05-13%20032555.png)
-
-### 3. Tactical Role Profiling
-
-Scatter plot profiling players based on their creative output versus goal-scoring threat.
-![Role Profiling](Images/Screenshot%202026-05-13%20032705.png)
+![Raw Data](Images/Screenshot%202026-05-13%20032632.png)
 
 ### 4. Goalkeepers Specialized Analysis
 
 Comparing the league's best shot-stoppers and point-scoring GKs.
-![GK Specialized Analysis](Images/Screenshot%202026-05-13%20032817.png)
+![Role Profiling](Images/Screenshot%202026-05-13%20032705.png)
+
 
 ### 5. Advanced Search & Filtering
 
@@ -73,10 +70,6 @@ Detailed search for specific players and multi-select filters for teams and posi
 ![Player Search](Images/Screenshot%202026-05-13%20032751.png)
 ![Filters](Images/Screenshot%202026-05-13%20032817.png)
 
-### 6. Raw Data Inspection
-
-Access to the full cleaned dataset for manual auditing.
-![Raw Data](Images/Screenshot%202026-05-13%20032632.png)
 
 Developed by Magdy ElSayed Fathy ElSayed
 Software Engineer & Data Analyst
