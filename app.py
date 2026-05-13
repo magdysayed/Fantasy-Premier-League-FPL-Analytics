@@ -265,7 +265,7 @@ try:
             st.plotly_chart(fig_def_creativity, use_container_width=True)
 
         # Scatter Plot: Defenders Threat vs Total Points
-        st.subheader("⚔️ Defensive vs Offensive Contribution")
+        st.subheader(" Defensive vs Offensive Contribution")
         
         fig_def_threat = go.Figure(data=go.Scatter(
             x=def_df['threat'], 
