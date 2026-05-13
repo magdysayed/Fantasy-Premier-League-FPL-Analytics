@@ -209,18 +209,24 @@ try:
             st.plotly_chart(fig_gk_points, use_container_width=True)
 
         with col6:
-            save_column = 'Performance_Saves' if 'Performance_Saves' in gk_df.columns else 'Saves'
-            if save_column in gk_df.columns:
+            # حل مشكلة الـ Saves: البحث عن أي عمود يحتوي على كلمة saves بغض النظر عن حالة الأحرف
+            save_column = None
+            possible_save_names = [col for col in gk_df.columns if 'save' in col.lower()]
+            
+            if possible_save_names:
+                save_column = possible_save_names[0] # اختيار أول عمود مطابق
                 top_gk_saves = gk_df.sort_values(by=save_column, ascending=False).head(10)
                 fig_gk_saves = go.Figure(data=go.Bar(
                     x=top_gk_saves['player'],
                     y=top_gk_saves[save_column],
                     marker_color='goldenrod'
                 ))
-                fig_gk_saves.update_layout(title="Top 10 Shot Stoppers (Total Saves)", xaxis_tickangle=-45)
+                fig_gk_saves.update_layout(title=f"Top 10 Shot Stoppers ({save_column})", xaxis_tickangle=-45)
                 st.plotly_chart(fig_gk_saves, use_container_width=True)
             else:
-                st.warning("Save statistics column not found in dataset.")
+                st.warning("⚠️ لم يتم العثور على عمود التصديات (Saves) في ملف البيانات المرفوع.")
+                # طباعة أسماء الأعمدة المتاحة لمساعدتك في التأكد (تظهر لك فقط أثناء التطوير)
+                # st.write("Columns found:", list(gk_df.columns)) 
     else:
         st.info("No Goalkeepers match current filter criteria.")
 
