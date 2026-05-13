@@ -1,0 +1,35 @@
+name: Auto Update FPL Data
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # work every day at 4 AM UTC
+  workflow_dispatch: #    allows manual trigger from GitHub UI
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: |
+          pip install soccerdata pandas requests seleniumbase
+          # ensure chromedriver is installed for seleniumbase
+          seleniumbase install chromedriver
+
+      - name: Run Scraper
+        run: python scraper.py #  make sure scraper.py is in the root of the repository and outputs clean_fpl_analysis.csv
+
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add clean_fpl_analysis.csv
+          git commit -m "Update FPL Data: $(date)" || exit 0
+          git push
