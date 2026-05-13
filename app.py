@@ -112,9 +112,8 @@ try:
             xaxis_title="Player Name",
             yaxis_title="Total Points",
             template="plotly_white",
-            xaxis_tickangle=-45
         )
-        st.plotly_chart(fig2, use_container_width=True)
+    st.plotly_chart(fig2, use_container_width=True)
 
     # --------------------------------------------------
     # Row 2: Value and Threat Analysis
