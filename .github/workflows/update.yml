@@ -1,31 +1,38 @@
 name: Auto Update FPL Data
 
+# أولاً: تحديد مواعيد التشغيل
 on:
   schedule:
-    - cron: "0 1 * * *" # work every day at 4 AM UTC
-  workflow_dispatch: #    allows manual trigger from GitHub UI
+    # سيقوم السيرفر بالعمل تلقائياً كل يوم الساعة 7 صباحاً بتوقيت الرياض (4 AM UTC)
+    - cron: "0 4 * * *" 
+  # يسمح لك بتشغيل الكود يدوياً من تبويب Actions للتجربة
+  workflow_dispatch: 
 
 jobs:
   scrape_and_commit:
     runs-on: ubuntu-latest
+
     steps:
+      # 1. سحب الكود من المستودع الخاص بك إلى السيرفر
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # 2. تجهيز بيئة بايثون على السيرفر
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
+      # 3. تثبيت المكتبات الضرورية فقط (خفيف وسريع)
       - name: Install Dependencies
         run: |
-          pip install soccerdata pandas requests seleniumbase
-          # ensure chromedriver is installed for seleniumbase
-          seleniumbase install chromedriver
+          pip install pandas requests
 
+      # 4. تشغيل ملف السكرابر الجديد الذي يسحب من FPL API
       - name: Run Scraper
-        run: python scraper.py #  make sure scraper.py is in the root of the repository and outputs clean_fpl_analysis.csv
+        run: python scraper.py 
 
+      # 5. حفظ النتائج ورفع ملف الـ CSV الجديد إلى المستودع
       - name: Commit and Push Results
         run: |
           git config --global user.name "GitHub Action"
