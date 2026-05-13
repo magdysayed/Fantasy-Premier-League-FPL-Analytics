@@ -1,6 +1,0 @@
-soccerdata
-pandas
-requests
-seleniumbase
-streamlit
-plotly
