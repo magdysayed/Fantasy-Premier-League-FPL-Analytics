@@ -224,7 +224,7 @@ try:
                 fig_gk_saves.update_layout(title=f"Top 10 Shot Stoppers ({save_column})", xaxis_tickangle=-45)
                 st.plotly_chart(fig_gk_saves, use_container_width=True)
             else:
-                st.warning("⚠️ لم يتم العثور على عمود التصديات (Saves) في ملف البيانات المرفوع.")
+                st.warning(" لم يتم العثور على عمود التصديات (Saves) في ملف البيانات المرفوع.")
                 # طباعة أسماء الأعمدة المتاحة لمساعدتك في التأكد (تظهر لك فقط أثناء التطوير)
                 # st.write("Columns found:", list(gk_df.columns)) 
     else:
@@ -273,7 +273,7 @@ try:
             text=def_df['player'],
             mode='markers',
             marker=dict(
-                size=def_df['price']*2, # point size based on price for visual emphasis
+                size=def_df['price']*10, # point size based on price for visual emphasis
                 color=def_df['total_points'],
                 colorscale='Viridis',
                 showscale=True
