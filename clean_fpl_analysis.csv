@@ -1,24 +1,24 @@
 first_name,second_name,team,now_cost,selected_by_percent,total_points,element_type,threat,creativity,influence,saves,team_name,player
-David,Raya Martín,1,6.1,35.7,156,1,0.0,33.5,539.4,60,Arsenal,David Raya Martín
+David,Raya Martín,1,6.1,36.0,156,1,0.0,33.5,539.4,60,Arsenal,David Raya Martín
 Kepa,Arrizabalaga Revuelta,1,4.0,0.4,0,1,0.0,0.0,0.0,0,Arsenal,Kepa Arrizabalaga Revuelta
 Karl,Hein,1,4.0,0.2,0,1,0.0,0.0,0.0,0,Arsenal,Karl Hein
 Tommy,Setford,1,3.9,0.2,0,1,0.0,0.0,0.0,0,Arsenal,Tommy Setford
-Gabriel,dos Santos Magalhães,1,7.3,45.4,202,2,295.0,127.0,806.8,0,Arsenal,Gabriel dos Santos Magalhães
-William,Saliba,1,6.2,16.2,129,2,90.0,199.2,533.0,0,Arsenal,William Saliba
+Gabriel,dos Santos Magalhães,1,7.3,45.7,202,2,295.0,127.0,806.8,0,Arsenal,Gabriel dos Santos Magalhães
+William,Saliba,1,6.2,16.5,129,2,90.0,199.2,533.0,0,Arsenal,William Saliba
 Riccardo,Calafiori,1,5.6,5.9,100,2,303.0,141.9,270.0,0,Arsenal,Riccardo Calafiori
-Jurriën,Timber,1,6.0,15.8,149,2,352.0,402.6,499.0,0,Arsenal,Jurriën Timber
+Jurriën,Timber,1,6.0,15.7,149,2,352.0,402.6,499.0,0,Arsenal,Jurriën Timber
 Jakub,Kiwior,1,5.4,0.0,0,2,0.0,0.0,0.0,0,Arsenal,Jakub Kiwior
-Myles,Lewis-Skelly,1,5.0,1.5,26,2,29.0,69.0,68.6,0,Arsenal,Myles Lewis-Skelly
+Myles,Lewis-Skelly,1,5.0,1.7,26,2,29.0,69.0,68.6,0,Arsenal,Myles Lewis-Skelly
 Benjamin,White,1,5.1,0.6,45,2,54.0,133.4,154.8,0,Arsenal,Benjamin White
 Brayden,Clarke,1,3.7,0.4,0,2,0.0,0.0,0.0,0,Arsenal,Brayden Clarke
 Maldini,Kacurri,1,3.9,0.1,0,2,0.0,0.0,0.0,0,Arsenal,Maldini Kacurri
 Josh,Nichols,1,3.7,0.2,0,2,0.0,0.0,0.0,0,Arsenal,Josh Nichols
-Bukayo,Saka,1,10.0,11.6,147,3,804.0,828.9,602.6,0,Arsenal,Bukayo Saka
+Bukayo,Saka,1,10.0,12.0,147,3,804.0,828.9,602.6,0,Arsenal,Bukayo Saka
 Martin,Ødegaard,1,7.8,1.6,71,3,161.0,545.7,305.0,0,Arsenal,Martin Ødegaard
 Noni,Madueke,1,6.8,0.8,61,3,343.0,307.5,209.6,0,Arsenal,Noni Madueke
 Gabriel,Martinelli Silva,1,6.8,0.9,49,3,359.0,170.8,175.6,0,Arsenal,Gabriel Martinelli Silva
-Leandro,Trossard,1,6.5,1.1,116,3,534.0,531.2,493.2,0,Arsenal,Leandro Trossard
-Declan,Rice,1,7.2,24.2,179,3,294.0,1021.1,802.6,0,Arsenal,Declan Rice
+Leandro,Trossard,1,6.5,1.3,116,3,534.0,531.2,493.2,0,Arsenal,Leandro Trossard
+Declan,Rice,1,7.2,24.3,179,3,294.0,1021.1,802.6,0,Arsenal,Declan Rice
 Mikel,Merino Zazón,1,5.3,0.7,66,3,237.0,187.0,304.4,0,Arsenal,Mikel Merino Zazón
 Fábio,Ferreira Vieira,1,5.4,0.0,0,3,0.0,0.0,0.0,0,Arsenal,Fábio Ferreira Vieira
 Christian,Nørgaard,1,5.1,0.1,6,3,7.0,0.4,15.8,0,Arsenal,Christian Nørgaard
@@ -30,16 +30,16 @@ Kai,Havertz,1,7.3,0.6,24,4,140.0,62.7,93.6,0,Arsenal,Kai Havertz
 Gabriel,Fernando de Jesus,1,6.4,0.3,19,4,228.0,37.4,108.0,0,Arsenal,Gabriel Fernando de Jesus
 Eberechi,Eze,1,7.3,8.9,109,3,408.0,291.1,380.8,0,Arsenal,Eberechi Eze
 Cristhian,Mosquera,1,5.3,0.2,30,2,16.0,66.6,171.2,0,Arsenal,Cristhian Mosquera
-Viktor,Gyökeres,1,9.0,15.9,126,4,762.0,252.8,534.2,0,Arsenal,Viktor Gyökeres
+Viktor,Gyökeres,1,9.0,16.7,126,4,762.0,252.8,534.2,0,Arsenal,Viktor Gyökeres
 Max,Dowman,1,4.2,0.8,13,3,61.0,38.7,42.6,0,Arsenal,Max Dowman
 Andre,Harriman-Annous,1,4.4,0.0,0,3,0.0,0.0,0.0,0,Arsenal,Andre Harriman-Annous
 Piero,Hincapié,1,5.1,0.9,84,2,61.0,181.0,434.8,0,Arsenal,Piero Hincapié
 Marli,Salmon,1,4.0,0.0,0,2,0.0,0.0,0.0,0,Arsenal,Marli Salmon
-Emiliano,Martínez Romero,2,5.1,4.7,118,1,0.0,23.2,749.2,92,Aston Villa,Emiliano Martínez Romero
+Emiliano,Martínez Romero,2,5.1,4.6,118,1,0.0,23.2,749.2,92,Aston Villa,Emiliano Martínez Romero
 Marco,Bizot,2,4.2,0.4,14,1,0.0,0.0,118.2,17,Aston Villa,Marco Bizot
 Joe,Gauci,2,4.0,0.1,0,1,0.0,0.0,0.0,0,Aston Villa,Joe Gauci
 Filip,Marschall,2,4.0,0.0,0,1,0.0,0.0,0.0,0,Aston Villa,Filip Marschall
-Matty,Cash,2,4.7,8.0,116,2,217.0,487.6,618.4,0,Aston Villa,Matty Cash
+Matty,Cash,2,4.7,7.9,116,2,217.0,487.6,618.4,0,Aston Villa,Matty Cash
 Lucas,Digne,2,4.5,1.6,93,2,126.0,439.2,376.8,0,Aston Villa,Lucas Digne
 Ezri,Konsa Ngoyo,2,4.4,7.4,99,2,124.0,107.4,587.8,0,Aston Villa,Ezri Konsa Ngoyo
 Ian,Maatsen,2,4.2,0.6,48,2,220.0,348.1,308.2,0,Aston Villa,Ian Maatsen
@@ -50,7 +50,7 @@ Andrés,García,2,3.9,0.2,4,2,0.0,2.7,3.2,0,Aston Villa,Andrés García
 Lamare,Bogarde,2,4.0,0.5,38,2,14.0,58.0,129.8,0,Aston Villa,Lamare Bogarde
 Lino,da Cruz Sousa,2,3.8,0.2,0,2,0.0,0.0,0.0,0,Aston Villa,Lino da Cruz Sousa
 Yasin,Özcan,2,4.0,0.1,0,2,0.0,0.0,0.0,0,Aston Villa,Yasin Özcan
-Morgan,Rogers,2,7.4,23.1,157,3,850.0,654.4,680.6,0,Aston Villa,Morgan Rogers
+Morgan,Rogers,2,7.4,22.5,157,3,850.0,654.4,680.6,0,Aston Villa,Morgan Rogers
 Youri,Tielemans,2,5.9,0.7,65,3,170.0,467.8,405.2,0,Aston Villa,Youri Tielemans
 Leon,Bailey,2,5.5,0.1,16,3,59.0,158.5,65.0,0,Aston Villa,Leon Bailey
 Emiliano,Buendía Stati,2,5.3,0.4,94,3,370.0,343.4,392.6,0,Aston Villa,Emiliano Buendía Stati
@@ -66,7 +66,7 @@ Ben,Broggio,2,4.4,0.2,0,3,0.0,0.0,0.0,0,Aston Villa,Ben Broggio
 Leander,Dendoncker,2,4.5,0.1,0,3,0.0,0.0,0.0,0,Aston Villa,Leander Dendoncker
 Jamaldeen,Jimoh-Aloba,2,4.5,0.1,1,3,0.0,0.3,0.2,0,Aston Villa,Jamaldeen Jimoh-Aloba
 Kadan,Young,2,4.3,0.5,0,3,0.0,0.0,0.0,0,Aston Villa,Kadan Young
-Ollie,Watkins,2,8.7,14.2,139,4,990.0,316.1,556.6,0,Aston Villa,Ollie Watkins
+Ollie,Watkins,2,8.7,13.9,139,4,990.0,316.1,556.6,0,Aston Villa,Ollie Watkins
 Zépiqueno,Redmond,2,4.5,0.3,0,4,0.0,0.0,0.0,0,Aston Villa,Zépiqueno Redmond
 Harvey,Elliott,2,5.1,0.2,5,3,31.0,31.7,11.8,0,Aston Villa,Harvey Elliott
 Jadon,Sancho,2,5.8,0.2,36,3,193.0,288.8,129.2,0,Aston Villa,Jadon Sancho
@@ -120,7 +120,7 @@ Zeki,Amdouni,3,4.8,0.0,2,4,16.0,1.9,2.6,0,Burnley,Zeki Amdouni
 Lyle,Foster,3,4.9,0.7,58,4,262.0,147.0,219.0,0,Burnley,Lyle Foster
 Ashley,Barnes,3,4.2,1.2,5,4,9.0,0.6,0.2,0,Burnley,Ashley Barnes
 Michael,Obafemi,3,4.4,0.1,0,4,0.0,0.0,0.0,0,Burnley,Michael Obafemi
-Martin,Dúbravka,3,4.0,26.4,96,1,0.0,0.0,976.4,127,Burnley,Martin Dúbravka
+Martin,Dúbravka,3,4.0,26.3,96,1,0.0,0.0,976.4,127,Burnley,Martin Dúbravka
 James,Ward-Prowse,3,5.6,0.2,38,3,22.0,364.9,205.2,0,Burnley,James Ward-Prowse
 Lesley,Ugochukwu,3,5.0,0.1,93,3,203.0,162.0,396.4,0,Burnley,Lesley Ugochukwu
 Armando,Broja,3,5.2,0.1,43,4,207.0,78.9,102.0,0,Burnley,Armando Broja
@@ -134,7 +134,7 @@ Will,Dennis,4,4.0,0.7,0,1,0.0,0.0,0.0,0,Bournemouth,Will Dennis
 Callan,McKenna,4,3.9,0.2,0,1,0.0,0.0,0.0,0,Bournemouth,Callan McKenna
 Alex,Paulsen,4,4.0,0.1,0,1,0.0,0.0,0.0,0,Bournemouth,Alex Paulsen
 Illia,Zabarnyi,4,5.0,0.0,0,2,0.0,0.0,0.0,0,Bournemouth,Illia Zabarnyi
-Marcos,Senesi Barón,4,5.2,21.2,169,2,199.0,364.5,1066.6,0,Bournemouth,Marcos Senesi Barón
+Marcos,Senesi Barón,4,5.2,21.1,169,2,199.0,364.5,1066.6,0,Bournemouth,Marcos Senesi Barón
 Adam,Smith,4,4.4,0.2,50,2,18.0,70.9,148.8,0,Bournemouth,Adam Smith
 Adrien,Truffert,4,4.7,4.7,155,2,176.0,506.7,779.6,0,Bournemouth,Adrien Truffert
 Matai,Akinmboni,4,3.8,0.2,0,2,0.0,0.0,0.0,0,Bournemouth,Matai Akinmboni
@@ -144,13 +144,13 @@ Julián,Araujo Zúñiga,4,3.8,0.5,0,2,0.0,0.0,0.0,0,Bournemouth,Julián Araujo Z
 Chris,Mepham,4,4.0,0.1,0,2,0.0,0.0,0.0,0,Bournemouth,Chris Mepham
 Julio,Soler Barreto,4,3.9,0.2,3,2,2.0,2.5,1.8,0,Bournemouth,Julio Soler Barreto
 Justin,Kluivert,4,6.9,0.6,40,3,128.0,304.1,146.6,0,Bournemouth,Justin Kluivert
-Marcus,Tavernier,4,5.4,4.8,125,3,567.0,696.8,584.2,0,Bournemouth,Marcus Tavernier
+Marcus,Tavernier,4,5.4,4.7,125,3,567.0,696.8,584.2,0,Bournemouth,Marcus Tavernier
 Tyler,Adams,4,4.9,0.3,70,3,114.0,151.7,361.6,0,Bournemouth,Tyler Adams
 David,Brooks,4,5.0,0.2,58,3,416.0,374.2,231.0,0,Bournemouth,David Brooks
 Ryan,Christie,4,4.9,0.1,47,3,220.0,197.0,226.6,0,Bournemouth,Ryan Christie
 Lewis,Cook,4,4.9,0.0,38,3,12.0,183.3,206.0,0,Bournemouth,Lewis Cook
 Philip,Billing,4,4.9,0.0,0,3,0.0,0.0,0.0,0,Bournemouth,Philip Billing
-Alex,Scott,4,5.0,2.3,132,3,314.0,468.5,578.6,0,Bournemouth,Alex Scott
+Alex,Scott,4,5.0,2.2,132,3,314.0,468.5,578.6,0,Bournemouth,Alex Scott
 Luis,Sinisterra Lucumí,4,5.0,0.0,0,3,0.0,0.0,0.0,0,Bournemouth,Luis Sinisterra Lucumí
 Romain,Faivre,4,4.5,0.1,0,3,0.0,0.0,0.0,0,Bournemouth,Romain Faivre
 Hamed,Traorè,4,4.5,0.3,4,3,0.0,10.0,21.2,0,Bournemouth,Hamed Traorè
@@ -181,7 +181,7 @@ Matthew,Cox,5,3.9,0.1,0,1,0.0,0.0,0.0,0,Brentford,Matthew Cox
 Julian,Eyestone,5,3.9,0.1,0,1,0.0,0.0,0.0,0,Brentford,Julian Eyestone
 Hákon Rafn,Valdimarsson,5,3.8,0.9,1,1,0.0,0.0,13.0,1,Brentford,Hákon Rafn Valdimarsson
 Nathan,Collins,5,4.9,2.5,123,2,314.0,132.2,780.2,0,Brentford,Nathan Collins
-Keane,Lewis-Potter,5,4.8,1.5,109,2,343.0,315.8,353.6,0,Brentford,Keane Lewis-Potter
+Keane,Lewis-Potter,5,4.8,1.6,109,2,343.0,315.8,353.6,0,Brentford,Keane Lewis-Potter
 Kristoffer,Ajer,5,4.4,0.2,73,2,165.0,58.8,381.8,0,Brentford,Kristoffer Ajer
 Rico,Henry,5,4.3,0.1,52,2,35.0,82.0,151.6,0,Brentford,Rico Henry
 Michael,Kayode,5,4.6,1.1,111,2,130.0,458.3,584.4,0,Brentford,Michael Kayode
@@ -208,7 +208,7 @@ Yunus Emre,Konak,5,4.3,0.1,0,3,0.0,0.0,0.0,0,Brentford,Yunus Emre Konak
 Paris,Maghoma,5,4.5,0.0,0,3,0.0,0.0,0.0,0,Brentford,Paris Maghoma
 Myles,Peart-Harris,5,4.4,0.0,1,3,0.0,0.0,0.0,0,Brentford,Myles Peart-Harris
 Ryan,Trevitt,5,4.5,0.0,0,3,0.0,0.0,0.0,0,Brentford,Ryan Trevitt
-Igor Thiago,Nascimento Rodrigues,5,7.3,32.1,177,4,1145.0,366.9,1000.8,0,Brentford,Igor Thiago Nascimento Rodrigues
+Igor Thiago,Nascimento Rodrigues,5,7.3,32.2,177,4,1145.0,366.9,1000.8,0,Brentford,Igor Thiago Nascimento Rodrigues
 Iwan,Morgan,5,4.4,0.3,0,4,0.0,0.0,0.0,0,Brentford,Iwan Morgan
 Josh,Dasilva,5,4.9,0.0,1,3,0.0,1.0,0.2,0,Brentford,Josh Dasilva
 Kaye,Furo,5,4.5,0.0,1,4,0.0,0.0,0.0,0,Brentford,Kaye Furo
@@ -230,19 +230,19 @@ Pervis,Estupiñán Tenorio,6,4.5,0.0,0,2,0.0,0.0,0.0,0,Brighton,Pervis Estupiñ�
 Ferdi,Kadıoğlu,6,4.4,1.4,115,2,253.0,400.9,482.2,0,Brighton,Ferdi Kadıoğlu
 Igor Julio,dos Santos de Paulo,6,4.5,0.1,6,2,0.0,10.6,25.8,0,Brighton,Igor Julio dos Santos de Paulo
 Tariq,Lamptey,6,4.4,0.1,0,2,0.0,0.0,0.0,0,Brighton,Tariq Lamptey
-Jan Paul,van Hecke,6,4.7,10.9,145,2,282.0,224.5,945.0,0,Brighton,Jan Paul van Hecke
+Jan Paul,van Hecke,6,4.7,11.0,145,2,282.0,224.5,945.0,0,Brighton,Jan Paul van Hecke
 Joël,Veltman,6,4.3,0.1,40,2,63.0,76.8,239.0,0,Brighton,Joël Veltman
 Adam,Webster,6,4.4,0.0,0,2,0.0,0.0,0.0,0,Brighton,Adam Webster
 Eiran,Cashin,6,4.0,0.0,0,2,0.0,0.0,0.0,0,Brighton,Eiran Cashin
 Jacob,Slater,6,4.0,0.1,0,2,0.0,0.0,0.0,0,Brighton,Jacob Slater
 Charlie,Tasker,6,3.8,0.2,0,2,0.0,0.0,0.0,0,Brighton,Charlie Tasker
-Mitoma,Kaoru,6,6.1,2.3,62,3,416.0,422.3,288.4,0,Brighton,Mitoma Kaoru
-Georginio,Rutter,6,5.6,0.4,85,3,417.0,334.6,331.8,0,Brighton,Georginio Rutter
+Mitoma,Kaoru,6,6.1,2.2,62,3,416.0,422.3,288.4,0,Brighton,Mitoma Kaoru
+Georginio,Rutter,6,5.6,0.3,85,3,417.0,334.6,331.8,0,Brighton,Georginio Rutter
 Solly,March,6,5.8,0.0,2,3,0.0,0.0,0.0,0,Brighton,Solly March
 Yankuba,Minteh,6,5.5,2.5,113,3,613.0,650.6,469.6,0,Brighton,Yankuba Minteh
 Julio,Enciso Espínola,6,5.4,0.0,0,3,0.0,0.0,0.0,0,Brighton,Julio Enciso Espínola
 Brajan,Gruda,6,5.4,0.0,35,3,152.0,217.1,134.4,0,Brighton,Brajan Gruda
-Jack,Hinshelwood,6,5.1,1.2,86,3,377.0,190.7,300.6,0,Brighton,Jack Hinshelwood
+Jack,Hinshelwood,6,5.2,1.3,86,3,377.0,190.7,300.6,0,Brighton,Jack Hinshelwood
 Matt,O'Riley,6,5.5,0.3,16,3,63.0,67.7,65.4,0,Brighton,Matt O'Riley
 Abdallah,Sima,6,5.4,0.0,0,3,0.0,0.0,0.0,0,Brighton,Abdallah Sima
 Yasin,Ayari,6,4.8,0.4,97,3,229.0,251.1,358.0,0,Brighton,Yasin Ayari
@@ -251,12 +251,12 @@ Diego,Gómez Amarilla,6,4.9,0.4,95,3,394.0,317.0,437.2,0,Brighton,Diego Gómez A
 James,Milner,6,4.9,0.1,34,3,59.0,149.5,137.6,0,Brighton,James Milner
 Jeremy,Sarmiento Morante,6,4.9,0.0,0,3,0.0,0.0,0.0,0,Brighton,Jeremy Sarmiento Morante
 Tom,Watson,6,4.8,0.0,5,3,7.0,2.4,6.0,0,Brighton,Tom Watson
-Mats,Wieffer,6,4.9,0.4,92,3,209.0,288.3,467.4,0,Brighton,Mats Wieffer
+Mats,Wieffer,6,4.9,0.3,92,3,209.0,288.3,467.4,0,Brighton,Mats Wieffer
 Malick,Yalcouyé,6,5.0,0.0,0,3,0.0,0.0,0.0,0,Brighton,Malick Yalcouyé
 Joe,Knight,6,4.4,0.1,1,3,0.0,0.0,0.0,0,Brighton,Joe Knight
 Adrian,Mazilu,6,4.5,0.0,0,3,0.0,0.0,0.0,0,Brighton,Adrian Mazilu
 Andrew,Moran,6,4.5,0.0,0,3,0.0,0.0,0.0,0,Brighton,Andrew Moran
-Danny,Welbeck,6,6.4,9.5,123,4,785.0,302.3,571.0,0,Brighton,Danny Welbeck
+Danny,Welbeck,6,6.4,9.4,123,4,785.0,302.3,571.0,0,Brighton,Danny Welbeck
 Evan,Ferguson,6,5.5,0.0,0,4,0.0,0.0,0.0,0,Brighton,Evan Ferguson
 Stefanos,Tzimas,6,5.2,0.1,16,4,44.0,65.7,66.6,0,Brighton,Stefanos Tzimas
 Charalampos,Kostoulas,6,4.8,0.3,33,4,217.0,92.1,133.6,0,Brighton,Charalampos Kostoulas
@@ -264,7 +264,7 @@ Nehemiah,Oriola,6,4.5,0.0,1,3,0.0,0.0,0.0,0,Brighton,Nehemiah Oriola
 Freddie,Simmonds,6,4.0,0.0,0,2,0.0,0.0,0.0,0,Brighton,Freddie Simmonds
 Pascal,Groß,6,5.6,3.3,73,3,171.0,603.1,365.4,0,Brighton,Pascal Groß
 Harry,Howell,6,4.5,0.0,4,3,2.0,5.1,10.2,0,Brighton,Harry Howell
-Robert,Lynch Sánchez,7,4.8,10.5,109,1,0.0,50.0,762.8,91,Chelsea,Robert Lynch Sánchez
+Robert,Lynch Sánchez,7,4.8,10.4,109,1,0.0,50.0,762.8,91,Chelsea,Robert Lynch Sánchez
 Filip,Jörgensen,7,4.3,0.2,9,1,0.0,0.0,79.8,8,Chelsea,Filip Jörgensen
 Mike,Penders,7,4.0,0.0,0,1,0.0,0.0,0.0,0,Chelsea,Mike Penders
 Gabriel,Słonina,7,3.9,0.1,0,1,0.0,0.0,0.0,0,Chelsea,Gabriel Słonina
@@ -280,7 +280,7 @@ Tosin,Adarabioyo,7,4.0,0.3,34,2,19.0,33.3,240.4,0,Chelsea,Tosin Adarabioyo
 Josh,Acheampong,7,3.7,1.7,36,2,66.0,40.3,127.8,0,Chelsea,Josh Acheampong
 Aarón,Anselmino,7,4.0,0.1,0,2,0.0,0.0,0.0,0,Chelsea,Aarón Anselmino
 Cole,Palmer,7,10.3,12.8,104,3,508.0,376.8,495.6,0,Chelsea,Cole Palmer
-Pedro,Lomba Neto,7,7.0,4.0,114,3,477.0,784.0,472.2,0,Chelsea,Pedro Lomba Neto
+Pedro,Lomba Neto,7,7.0,3.9,114,3,477.0,784.0,472.2,0,Chelsea,Pedro Lomba Neto
 Enzo,Fernández,7,6.4,10.7,143,3,735.0,1009.0,769.0,0,Chelsea,Enzo Fernández
 Estêvão,Almeida de Oliveira Gonçalves,7,6.4,1.7,58,3,314.0,230.9,183.4,0,Chelsea,Estêvão Almeida de Oliveira Gonçalves
 Jamie,Bynoe-Gittens,7,6.0,0.1,25,3,91.0,130.4,93.0,0,Chelsea,Jamie Bynoe-Gittens
@@ -291,7 +291,7 @@ Mykhailo,Mudryk,7,4.9,0.0,0,3,0.0,0.0,0.0,0,Chelsea,Mykhailo Mudryk
 Andrey,Nascimento dos Santos,7,4.4,0.3,37,3,74.0,148.6,183.4,0,Chelsea,Andrey Nascimento dos Santos
 Dário,Luís Essugo,7,4.3,0.1,1,3,2.0,2.1,9.4,0,Chelsea,Dário Luís Essugo
 Kendry,Páez Andrade,7,4.5,0.0,0,3,0.0,0.0,0.0,0,Chelsea,Kendry Páez Andrade
-João Pedro,Junqueira de Jesus,7,7.5,38.3,176,4,898.0,456.3,758.0,0,Chelsea,João Pedro Junqueira de Jesus
+João Pedro,Junqueira de Jesus,7,7.5,38.2,176,4,898.0,456.3,758.0,0,Chelsea,João Pedro Junqueira de Jesus
 Liam,Delap,7,6.2,0.9,43,4,343.0,70.6,67.8,0,Chelsea,Liam Delap
 Nicolas,Jackson,7,6.5,0.1,0,4,0.0,0.0,0.0,0,Chelsea,Nicolas Jackson
 Marc,Guiu Paz,7,4.0,5.1,13,4,86.0,40.1,24.6,0,Chelsea,Marc Guiu Paz
@@ -303,11 +303,11 @@ Teddy,Sharman-Lowe,7,4.0,0.0,0,1,0.0,0.0,0.0,0,Chelsea,Teddy Sharman-Lowe
 Jesse,Derry,7,4.5,0.0,1,3,25.0,6.4,4.6,0,Chelsea,Jesse Derry
 Mathis,Eboué,7,4.5,0.0,0,3,0.0,0.0,0.0,0,Chelsea,Mathis Eboué
 Ryan,Kavuma-McQueen,7,4.5,0.0,0,3,0.0,0.0,0.0,0,Chelsea,Ryan Kavuma-McQueen
-Dean,Henderson,8,5.1,9.6,129,1,0.0,10.0,792.2,100,Crystal Palace,Dean Henderson
+Dean,Henderson,8,5.1,9.5,129,1,0.0,10.0,792.2,100,Crystal Palace,Dean Henderson
 Walter,Benítez,8,3.9,0.3,7,1,0.0,0.0,22.8,3,Crystal Palace,Walter Benítez
 Remi,Matthews,8,3.9,0.1,0,1,0.0,0.0,0.0,0,Crystal Palace,Remi Matthews
-Daniel,Muñoz Mejía,8,5.9,10.0,129,2,363.0,362.5,550.8,0,Crystal Palace,Daniel Muñoz Mejía
-Maxence,Lacroix,8,5.2,8.1,152,2,309.0,105.9,809.2,0,Crystal Palace,Maxence Lacroix
+Daniel,Muñoz Mejía,8,5.9,9.9,129,2,363.0,362.5,550.8,0,Crystal Palace,Daniel Muñoz Mejía
+Maxence,Lacroix,8,5.2,8.0,152,2,309.0,105.9,809.2,0,Crystal Palace,Maxence Lacroix
 Tyrick,Mitchell,8,5.0,2.4,133,2,229.0,460.0,620.2,0,Crystal Palace,Tyrick Mitchell
 Borna,Sosa,8,4.8,0.1,6,2,8.0,24.1,12.6,0,Crystal Palace,Borna Sosa
 Chris,Richards,8,4.4,2.7,128,2,185.0,159.5,725.8,0,Crystal Palace,Chris Richards
@@ -315,7 +315,7 @@ Chadi,Riad Dnanou,8,4.0,0.1,15,2,16.0,22.3,84.8,0,Crystal Palace,Chadi Riad Dnan
 Nathaniel,Clyne,8,3.8,0.5,16,2,33.0,53.6,88.6,0,Crystal Palace,Nathaniel Clyne
 Rob,Holding,8,4.0,0.0,0,2,0.0,0.0,0.0,0,Crystal Palace,Rob Holding
 Caleb,Kporha,8,4.0,0.0,0,2,0.0,0.0,0.0,0,Crystal Palace,Caleb Kporha
-Ismaïla,Sarr,8,6.4,6.9,109,3,570.0,255.7,437.2,0,Crystal Palace,Ismaïla Sarr
+Ismaïla,Sarr,8,6.4,6.7,109,3,570.0,255.7,437.2,0,Crystal Palace,Ismaïla Sarr
 Cheick,Doucouré,8,4.9,0.0,0,3,0.0,0.0,0.0,0,Crystal Palace,Cheick Doucouré
 Romain,Esse,8,4.7,0.1,4,3,6.0,2.7,6.8,0,Crystal Palace,Romain Esse
 Will,Hughes,8,4.7,0.1,43,3,88.0,310.3,181.8,0,Crystal Palace,Will Hughes
@@ -331,7 +331,7 @@ Matheus,França de Oliveira,8,4.5,0.0,0,3,0.0,0.0,0.0,0,Crystal Palace,Matheus F
 David,Ozoh,8,4.5,0.0,0,3,0.0,0.0,0.0,0,Crystal Palace,David Ozoh
 Kaden,Rodney,8,4.4,0.1,1,3,0.0,0.1,0.0,0,Crystal Palace,Kaden Rodney
 Franco,Umeh-Chibueze,8,4.5,0.0,0,3,0.0,0.0,0.0,0,Crystal Palace,Franco Umeh-Chibueze
-Jean-Philippe,Mateta,8,7.6,9.1,107,4,767.0,156.6,533.2,0,Crystal Palace,Jean-Philippe Mateta
+Jean-Philippe,Mateta,8,7.6,8.9,107,4,767.0,156.6,533.2,0,Crystal Palace,Jean-Philippe Mateta
 Eddie,Nketiah,8,5.4,0.3,23,4,173.0,84.6,120.0,0,Crystal Palace,Eddie Nketiah
 Odsonne,Édouard,8,5.0,0.2,1,4,0.0,0.0,2.0,0,Crystal Palace,Odsonne Édouard
 Zach,Marsh,8,4.4,0.3,0,4,0.0,0.0,0.0,0,Crystal Palace,Zach Marsh
@@ -347,25 +347,25 @@ Dean,Benamar,8,4.0,0.0,0,2,0.0,0.0,0.0,0,Crystal Palace,Dean Benamar
 Ben,Casey,8,4.5,0.0,0,4,0.0,0.0,0.0,0,Crystal Palace,Ben Casey
 George,King,8,4.0,0.0,0,2,0.0,0.0,0.0,0,Crystal Palace,George King
 Danny,Imray,8,4.0,0.0,0,2,0.0,0.0,0.0,0,Crystal Palace,Danny Imray
-Kiernan,Dewsbury-Hall,9,5.2,6.9,147,3,431.0,546.6,592.8,0,Everton,Kiernan Dewsbury-Hall
+Kiernan,Dewsbury-Hall,9,5.3,7.3,147,3,431.0,546.6,592.8,0,Everton,Kiernan Dewsbury-Hall
 Tyrique,George,9,4.8,0.1,14,3,113.0,45.5,32.4,0,Everton,Tyrique George
 Jordan,Pickford,9,5.6,13.0,132,1,2.0,20.3,861.4,99,Everton,Jordan Pickford
 Mark,Travers,9,4.2,0.1,0,1,0.0,0.0,0.0,0,Everton,Mark Travers
 Harry,Tyrer,9,3.9,0.1,0,1,0.0,0.0,0.0,0,Everton,Harry Tyrer
 Jarrad,Branthwaite,9,5.3,0.3,32,2,75.0,42.8,175.0,0,Everton,Jarrad Branthwaite
-James,Tarkowski,9,5.7,11.7,164,2,379.0,223.2,947.4,0,Everton,James Tarkowski
-Vitalii,Mykolenko,9,4.9,0.6,92,2,69.0,363.6,528.8,0,Everton,Vitalii Mykolenko
+James,Tarkowski,9,5.7,12.0,164,2,379.0,223.2,947.4,0,Everton,James Tarkowski
+Vitalii,Mykolenko,9,4.9,0.7,92,2,69.0,363.6,528.8,0,Everton,Vitalii Mykolenko
 Jake,O'Brien,9,4.9,0.7,115,2,169.0,269.8,575.0,0,Everton,Jake O'Brien
 Séamus,Coleman,9,4.2,0.1,3,2,0.0,0.1,0.0,0,Everton,Séamus Coleman
-Michael,Keane,9,4.5,2.7,123,2,276.0,32.0,721.6,0,Everton,Michael Keane
+Michael,Keane,9,4.5,2.8,123,2,276.0,32.0,721.6,0,Everton,Michael Keane
 Nathan,Patterson,9,4.4,0.0,22,2,17.0,6.4,65.6,0,Everton,Nathan Patterson
 Roman,Dixon,9,3.8,0.2,0,2,0.0,0.0,0.0,0,Everton,Roman Dixon
 Reece,Welch,9,3.8,0.1,0,2,0.0,0.0,0.0,0,Everton,Reece Welch
-Iliman,Ndiaye,9,6.2,4.5,124,3,566.0,458.1,590.2,0,Everton,Iliman Ndiaye
+Iliman,Ndiaye,9,6.2,4.6,124,3,566.0,458.1,590.2,0,Everton,Iliman Ndiaye
 Dwight,McNeil,9,5.5,0.1,52,3,138.0,241.6,140.4,0,Everton,Dwight McNeil
 Carlos,Alcaraz Durán,9,5.2,0.1,28,3,158.0,146.1,89.2,0,Everton,Carlos Alcaraz Durán
 Idrissa Gana,Gueye,9,5.4,0.1,83,3,208.0,259.2,382.6,0,Everton,Idrissa Gana Gueye
-James,Garner,9,5.2,3.8,154,3,227.0,890.8,845.6,0,Everton,James Garner
+James,Garner,9,5.2,3.9,154,3,227.0,890.8,845.6,0,Everton,James Garner
 Tim,Iroegbunam,9,4.8,0.0,63,3,81.0,109.7,228.4,0,Everton,Tim Iroegbunam
 Harrison,Armstrong,9,4.5,0.1,20,3,78.0,66.6,58.6,0,Everton,Harrison Armstrong
 Callum,Bates,9,4.3,0.1,0,3,0.0,0.0,0.0,0,Everton,Callum Bates
@@ -373,7 +373,7 @@ Coby,Ebere,9,4.4,0.0,0,3,0.0,0.0,0.0,0,Everton,Coby Ebere
 Isaac,Heath,9,4.5,0.0,0,3,0.0,0.0,0.0,0,Everton,Isaac Heath
 Jenson,Metcalfe,9,4.5,0.0,0,3,0.0,0.0,0.0,0,Everton,Jenson Metcalfe
 Thierno,Barry,9,5.7,0.8,92,4,493.0,194.7,337.8,0,Everton,Thierno Barry
-Norberto Bercique,Gomes Betuncal,9,5.0,3.1,101,4,646.0,158.6,440.4,0,Everton,Norberto Bercique Gomes Betuncal
+Norberto Bercique,Gomes Betuncal,9,5.0,3.2,101,4,646.0,158.6,440.4,0,Everton,Norberto Bercique Gomes Betuncal
 Youssef,Ramalho Chermiti,9,4.9,0.1,0,4,0.0,0.0,0.0,0,Everton,Youssef Ramalho Chermiti
 Martin,Sherif,9,4.4,0.1,0,4,0.0,0.0,0.0,0,Everton,Martin Sherif
 Jack,Grealish,9,6.3,5.6,79,3,397.0,520.5,374.2,0,Everton,Jack Grealish
@@ -384,12 +384,12 @@ Elijah,Campbell,9,3.9,0.1,0,2,0.0,0.0,0.0,0,Everton,Elijah Campbell
 Tyler,Dibling,9,5.3,0.0,18,3,32.0,61.0,46.0,0,Everton,Tyler Dibling
 Merlin,Röhl,9,5.0,0.0,25,3,47.0,81.2,71.0,0,Everton,Merlin Röhl
 Braiden,Graham,9,4.5,0.0,0,4,0.0,0.0,0.0,0,Everton,Braiden Graham
-Bernd,Leno,10,4.9,2.2,114,1,0.0,0.0,786.0,94,Fulham,Bernd Leno
+Bernd,Leno,10,5.0,2.2,114,1,0.0,0.0,786.0,94,Fulham,Bernd Leno
 Steven,Benda,10,4.0,0.0,0,1,0.0,0.0,0.0,0,Fulham,Steven Benda
 Antonee,Robinson,10,4.9,0.8,47,2,59.0,304.3,302.6,0,Fulham,Antonee Robinson
-Joachim,Andersen,10,4.5,3.9,123,2,148.0,131.0,790.6,0,Fulham,Joachim Andersen
-Calvin,Bassey,10,4.4,0.7,95,2,115.0,139.7,543.4,0,Fulham,Calvin Bassey
-Timothy,Castagne,10,4.3,0.1,48,2,170.0,247.2,336.0,0,Fulham,Timothy Castagne
+Joachim,Andersen,10,4.5,3.7,123,2,148.0,131.0,790.6,0,Fulham,Joachim Andersen
+Calvin,Bassey,10,4.4,0.8,95,2,115.0,139.7,543.4,0,Fulham,Calvin Bassey
+Timothy,Castagne,10,4.3,0.2,48,2,170.0,247.2,336.0,0,Fulham,Timothy Castagne
 Issa,Diop,10,4.3,0.1,14,2,14.0,6.5,125.8,0,Fulham,Issa Diop
 Jorge,Cuenca Barreno,10,4.3,0.1,39,2,14.0,47.1,244.6,0,Fulham,Jorge Cuenca Barreno
 Kenny,Tete,10,4.5,0.2,81,2,108.0,214.1,416.0,0,Fulham,Kenny Tete
@@ -420,7 +420,7 @@ Illan,Meslier,11,4.1,0.3,0,1,0.0,0.0,0.0,0,Leeds,Illan Meslier
 Alex,Cairns,11,3.9,0.1,0,1,0.0,0.0,0.0,0,Leeds,Alex Cairns
 Karl,Darlow,11,4.0,6.7,58,1,0.0,0.0,443.4,51,Leeds,Karl Darlow
 Jayden,Bogle,11,4.4,0.6,94,2,212.0,327.4,422.6,0,Leeds,Jayden Bogle
-Pascal,Struijk,11,4.2,2.5,107,2,272.0,160.2,685.4,0,Leeds,Pascal Struijk
+Pascal,Struijk,11,4.2,2.4,107,2,272.0,160.2,685.4,0,Leeds,Pascal Struijk
 Jaka,Bijol,11,3.9,1.1,90,2,235.0,83.0,482.4,0,Leeds,Jaka Bijol
 Sebastiaan,Bornauw,11,3.8,0.1,18,2,10.0,6.0,87.4,0,Leeds,Sebastiaan Bornauw
 Sam,Byram,11,3.7,0.4,1,2,0.0,0.0,0.0,0,Leeds,Sam Byram
@@ -446,9 +446,9 @@ Lukas,Nmecha,11,5.0,0.5,70,4,413.0,107.3,277.8,0,Leeds,Lukas Nmecha
 Sean,Longstaff,11,4.8,0.2,55,3,114.0,403.1,288.8,0,Leeds,Sean Longstaff
 Anton,Stach,11,4.8,2.0,134,3,314.0,902.2,640.2,0,Leeds,Anton Stach
 Lucas Estella,Perri,11,4.4,0.3,43,1,0.0,0.0,322.4,38,Leeds,Lucas Estella Perri
-Dominic,Calvert-Lewin,11,5.8,12.9,133,4,981.0,283.4,575.8,0,Leeds,Dominic Calvert-Lewin
-Noah,Okafor,11,5.5,2.0,109,3,435.0,275.0,438.8,0,Leeds,Noah Okafor
-James,Justin,11,4.0,2.1,87,2,206.0,175.3,441.4,0,Leeds,James Justin
+Dominic,Calvert-Lewin,11,5.8,13.0,133,4,981.0,283.4,575.8,0,Leeds,Dominic Calvert-Lewin
+Noah,Okafor,11,5.5,1.7,109,3,435.0,275.0,438.8,0,Leeds,Noah Okafor
+James,Justin,11,4.0,2.2,87,2,206.0,175.3,441.4,0,Leeds,James Justin
 Harry,Gray,11,4.5,0.1,0,4,0.0,0.0,0.0,0,Leeds,Harry Gray
 Sam,Chambers,11,4.4,0.0,0,3,0.0,0.0,0.0,0,Leeds,Sam Chambers
 Jayden,Lienou,11,4.0,0.0,0,2,0.0,0.0,0.0,0,Leeds,Jayden Lienou
@@ -459,9 +459,9 @@ Giorgi,Mamardashvili,12,4.1,0.6,33,1,0.0,0.0,237.2,29,Liverpool,Giorgi Mamardash
 Freddie,Woodman,12,3.9,0.4,6,1,0.0,0.0,83.8,9,Liverpool,Freddie Woodman
 Jeremie,Frimpong,12,5.7,5.0,62,2,182.0,228.4,128.4,0,Liverpool,Jeremie Frimpong
 Milos,Kerkez,12,5.6,2.9,84,2,139.0,403.6,424.6,0,Liverpool,Milos Kerkez
-Andrew,Robertson,12,5.7,1.1,53,2,119.0,287.2,222.6,0,Liverpool,Andrew Robertson
-Virgil,van Dijk,12,6.1,30.6,159,2,449.0,202.5,1057.4,0,Liverpool,Virgil van Dijk
-Ibrahima,Konaté,12,5.5,3.9,128,2,96.0,146.6,750.6,0,Liverpool,Ibrahima Konaté
+Andrew,Robertson,12,5.7,1.0,53,2,119.0,287.2,222.6,0,Liverpool,Andrew Robertson
+Virgil,van Dijk,12,6.1,30.3,159,2,449.0,202.5,1057.4,0,Liverpool,Virgil van Dijk
+Ibrahima,Konaté,12,5.4,3.8,128,2,96.0,146.6,750.6,0,Liverpool,Ibrahima Konaté
 Conor,Bradley,12,4.9,0.1,42,2,62.0,105.2,157.4,0,Liverpool,Conor Bradley
 Joe,Gomez,12,4.9,0.1,32,2,26.0,71.7,120.6,0,Liverpool,Joe Gomez
 Konstantinos,Tsimikas,12,4.8,0.0,0,2,0.0,0.0,0.0,0,Liverpool,Konstantinos Tsimikas
@@ -469,11 +469,11 @@ Amara,Nallo,12,3.7,0.9,0,2,0.0,0.0,0.0,0,Liverpool,Amara Nallo
 Rhys,Williams,12,3.7,0.5,0,2,0.0,0.0,0.0,0,Liverpool,Rhys Williams
 Calvin,Ramsay,12,3.7,0.3,0,2,0.0,0.0,0.0,0,Liverpool,Calvin Ramsay
 Mohamed,Salah,12,14.0,13.7,116,3,741.0,710.6,497.6,0,Liverpool,Mohamed Salah
-Florian,Wirtz,12,8.3,8.8,123,3,636.0,904.1,519.2,0,Liverpool,Florian Wirtz
+Florian,Wirtz,12,8.3,8.7,123,3,636.0,904.1,519.2,0,Liverpool,Florian Wirtz
 Luis,Díaz Marulanda,12,8.0,0.0,0,3,0.0,0.0,0.0,0,Liverpool,Luis Díaz Marulanda
 Cody,Gakpo,12,7.3,5.6,127,3,803.0,681.4,532.4,0,Liverpool,Cody Gakpo
 Federico,Chiesa,12,6.3,0.3,36,3,149.0,47.2,120.0,0,Liverpool,Federico Chiesa
-Alexis,Mac Allister,12,6.2,1.8,103,3,317.0,499.4,444.2,0,Liverpool,Alexis Mac Allister
+Alexis,Mac Allister,12,6.1,1.8,103,3,317.0,499.4,444.2,0,Liverpool,Alexis Mac Allister
 Dominik,Szoboszlai,12,7.0,13.0,149,3,383.0,1182.1,800.6,0,Liverpool,Dominik Szoboszlai
 Curtis,Jones,12,5.4,0.1,69,3,189.0,375.4,333.8,0,Liverpool,Curtis Jones
 Ryan,Gravenberch,12,5.4,3.7,140,3,196.0,471.8,673.8,0,Liverpool,Ryan Gravenberch
@@ -485,16 +485,16 @@ Trey,Nyoni,12,4.3,0.3,5,3,4.0,12.7,2.4,0,Liverpool,Trey Nyoni
 Darwin,Núñez Ribeiro,12,6.5,0.1,0,4,0.0,0.0,0.0,0,Liverpool,Darwin Núñez Ribeiro
 Jayden,Danns,12,4.3,0.1,0,4,0.0,0.0,0.0,0,Liverpool,Jayden Danns
 Alexander,Isak,12,10.3,3.9,41,4,191.0,39.2,146.4,0,Liverpool,Alexander Isak
-Hugo,Ekitiké,12,9.0,16.1,125,4,739.0,307.2,525.8,0,Liverpool,Hugo Ekitiké
+Hugo,Ekitiké,12,9.0,16.0,125,4,739.0,307.2,525.8,0,Liverpool,Hugo Ekitiké
 Rio,Ngumoha,12,4.3,1.2,39,3,176.0,178.0,166.2,0,Liverpool,Rio Ngumoha
 Giovanni,Leoni,12,4.9,0.0,0,2,0.0,0.0,0.0,0,Liverpool,Giovanni Leoni
 Kieran,Morrison,12,4.5,0.0,0,3,0.0,0.0,0.0,0,Liverpool,Kieran Morrison
 Wellity,Lucky,12,4.0,0.0,0,2,0.0,0.0,0.0,0,Liverpool,Wellity Lucky
 Will,Wright,12,4.5,0.0,0,4,0.0,0.0,0.0,0,Liverpool,Will Wright
 Talla,Ndiaye,12,4.0,0.0,0,2,0.0,0.0,0.0,0,Liverpool,Talla Ndiaye
-Antoine,Semenyo,13,8.1,47.7,195,3,995.0,577.8,880.8,0,Man City,Antoine Semenyo
+Antoine,Semenyo,13,8.1,47.6,195,3,995.0,577.8,880.8,0,Man City,Antoine Semenyo
 James,Trafford,13,4.5,0.9,11,1,0.0,0.0,100.2,11,Man City,James Trafford
-Marc,Guéhi,13,5.1,32.7,177,2,398.0,303.6,888.4,0,Man City,Marc Guéhi
+Marc,Guéhi,13,5.1,32.8,177,2,398.0,303.6,888.4,0,Man City,Marc Guéhi
 Ederson,Santana de Moraes,13,5.3,0.8,0,1,0.0,0.0,0.0,0,Man City,Ederson Santana de Moraes
 Marcus,Bettinelli,13,3.8,0.3,0,1,0.0,0.0,0.0,0,Man City,Marcus Bettinelli
 Rayan,Aït-Nouri,13,5.7,4.1,59,2,88.0,215.9,190.4,0,Man City,Rayan Aït-Nouri
@@ -502,18 +502,18 @@ Joško,Gvardiol,13,5.8,3.2,78,2,218.0,109.0,365.0,0,Man City,Joško Gvardiol
 Manuel,Akanji,13,5.4,0.3,0,2,0.0,0.0,0.0,0,Man City,Manuel Akanji
 Nathan,Aké,13,5.2,0.6,35,2,68.0,108.9,125.6,0,Man City,Nathan Aké
 Abdukodir,Khusanov,13,5.4,0.7,65,2,21.0,109.6,288.6,0,Man City,Abdukodir Khusanov
-Matheus,Nunes,13,5.3,3.0,152,2,129.0,541.2,681.8,0,Man City,Matheus Nunes
+Matheus,Nunes,13,5.3,2.9,152,2,129.0,541.2,681.8,0,Man City,Matheus Nunes
 Rúben,dos Santos Gato Alves Dias,13,5.5,3.1,112,2,96.0,139.5,549.2,0,Man City,Rúben dos Santos Gato Alves Dias
 John,Stones,13,5.4,0.6,13,2,2.0,20.9,82.2,0,Man City,John Stones
 Rico,Lewis,13,4.6,1.2,19,2,43.0,97.3,67.4,0,Man City,Rico Lewis
-Nico,O'Reilly,13,5.3,19.9,158,2,543.0,410.6,634.6,0,Man City,Nico O'Reilly
+Nico,O'Reilly,13,5.3,19.8,158,2,543.0,410.6,634.6,0,Man City,Nico O'Reilly
 Vitor,de Oliveira Nunes dos Reis,13,5.0,0.0,0,2,0.0,0.0,0.0,0,Man City,Vitor de Oliveira Nunes dos Reis
 Omar,Marmoush,13,8.3,2.5,55,3,282.0,159.8,203.2,0,Man City,Omar Marmoush
 Phil,Foden,13,8.0,7.6,128,3,508.0,877.9,570.2,0,Man City,Phil Foden
 Sávio,Moreira de Oliveira,13,6.9,0.4,40,3,288.0,159.6,133.4,0,Man City,Sávio Moreira de Oliveira
 Bernardo,Mota Veiga de Carvalho e Silva,13,6.2,0.7,100,3,311.0,785.7,496.2,0,Man City,Bernardo Mota Veiga de Carvalho e Silva
-Rayan,Cherki,13,6.6,20.0,133,3,567.0,980.4,603.4,0,Man City,Rayan Cherki
-Jérémy,Doku,13,6.5,5.9,117,3,600.0,812.9,532.6,0,Man City,Jérémy Doku
+Rayan,Cherki,13,6.6,19.8,133,3,567.0,980.4,603.4,0,Man City,Rayan Cherki
+Jérémy,Doku,13,6.5,6.1,117,3,600.0,812.9,532.6,0,Man City,Jérémy Doku
 İlkay,Gündoğan,13,6.3,0.1,0,3,0.0,0.0,0.0,0,Man City,İlkay Gündoğan
 Rodrigo 'Rodri',Hernandez Cascante,13,6.3,0.5,62,3,102.0,392.5,341.8,0,Man City,Rodrigo 'Rodri' Hernandez Cascante
 Mateo,Kovačić,13,5.8,0.0,7,3,1.0,40.5,33.0,0,Man City,Mateo Kovačić
@@ -538,11 +538,11 @@ Tom,Heaton,14,3.8,0.5,0,1,0.0,0.0,0.0,0,Man Utd,Tom Heaton
 Dermot,Mee,14,3.9,0.1,0,1,0.0,0.0,0.0,0,Man Utd,Dermot Mee
 Matthijs,de Ligt,14,4.9,1.8,43,2,122.0,60.2,276.6,0,Man Utd,Matthijs de Ligt
 Lisandro,Martínez,14,4.8,0.4,42,2,10.0,82.5,251.0,0,Man Utd,Lisandro Martínez
-Noussair,Mazraoui,14,4.9,0.2,47,2,35.0,109.1,195.8,0,Man Utd,Noussair Mazraoui
+Noussair,Mazraoui,14,4.9,0.3,47,2,35.0,109.1,195.8,0,Man Utd,Noussair Mazraoui
 Diego,León Blanco,14,4.1,0.1,0,2,0.0,0.0,0.0,0,Man Utd,Diego León Blanco
 Diogo,Dalot Teixeira,14,4.5,4.0,110,2,198.0,427.7,515.4,0,Man Utd,Diogo Dalot Teixeira
 Patrick,Dorgu,14,4.1,2.4,76,2,269.0,365.7,403.0,0,Man Utd,Patrick Dorgu
-Harry,Maguire,14,4.4,1.4,81,2,175.0,50.7,334.2,0,Man Utd,Harry Maguire
+Harry,Maguire,14,4.4,1.5,81,2,175.0,50.7,334.2,0,Man Utd,Harry Maguire
 Luke,Shaw,14,4.5,0.9,101,2,79.0,307.7,509.4,0,Man Utd,Luke Shaw
 Leny,Yoro,14,4.1,1.2,55,2,124.0,82.8,319.0,0,Man Utd,Leny Yoro
 Harry,Amass,14,4.0,0.1,0,2,0.0,0.0,0.0,0,Man Utd,Harry Amass
@@ -550,13 +550,13 @@ Tyler,Fredricson,14,3.7,0.2,1,2,0.0,0.0,4.0,0,Man Utd,Tyler Fredricson
 Ayden,Heaven,14,3.7,2.6,42,2,26.0,32.0,233.6,0,Man Utd,Ayden Heaven
 Tyrell,Malacia,14,3.7,0.5,2,2,0.0,0.5,3.6,0,Man Utd,Tyrell Malacia
 Bruno,Borges Fernandes,14,10.4,47.6,212,3,561.0,1783.2,1156.0,0,Man Utd,Bruno Borges Fernandes
-Matheus,Santos Carneiro da Cunha,14,8.1,8.2,134,3,766.0,486.8,622.6,0,Man Utd,Matheus Santos Carneiro da Cunha
+Matheus,Santos Carneiro da Cunha,14,8.1,8.3,134,3,766.0,486.8,622.6,0,Man Utd,Matheus Santos Carneiro da Cunha
 Marcus,Rashford,14,7.0,0.0,0,3,0.0,0.0,0.0,0,Man Utd,Marcus Rashford
 Amad,Diallo,14,6.2,1.3,82,3,533.0,564.2,403.8,0,Man Utd,Amad Diallo
 Antony,dos Santos,14,5.9,0.1,0,3,0.0,0.0,0.0,0,Man Utd,Antony dos Santos
 Mason,Mount,14,5.9,0.3,52,3,160.0,209.2,185.6,0,Man Utd,Mason Mount
 Carlos Henrique,Casimiro,14,5.9,5.4,164,3,574.0,511.9,896.8,0,Man Utd,Carlos Henrique Casimiro
-Kobbie,Mainoo,14,4.7,1.2,67,3,76.0,312.5,333.4,0,Man Utd,Kobbie Mainoo
+Kobbie,Mainoo,14,4.7,1.3,67,3,76.0,312.5,333.4,0,Man Utd,Kobbie Mainoo
 Manuel,Ugarte Ribeiro,14,4.7,0.1,38,3,48.0,83.6,167.2,0,Man Utd,Manuel Ugarte Ribeiro
 Toby,Collyer,14,4.5,0.0,0,3,0.0,0.0,0.0,0,Man Utd,Toby Collyer
 Jayce,Fitzgerald,14,4.3,0.0,0,3,0.0,0.0,0.0,0,Man Utd,Jayce Fitzgerald
@@ -567,8 +567,8 @@ Rasmus,Højlund,14,6.3,0.3,0,4,0.0,0.0,0.0,0,Man Utd,Rasmus Højlund
 Joshua,Zirkzee,14,5.8,0.4,40,4,203.0,165.6,155.6,0,Man Utd,Joshua Zirkzee
 Chido,Obi,14,4.2,1.4,0,4,0.0,0.0,0.0,0,Man Utd,Chido Obi
 Ethan,Wheatley,14,4.5,0.1,0,4,0.0,0.0,0.0,0,Man Utd,Ethan Wheatley
-Benjamin,Sesko,14,7.3,5.4,111,4,803.0,156.1,483.8,0,Man Utd,Benjamin Sesko
-Senne,Lammens,14,5.1,3.3,102,1,2.0,0.0,597.6,75,Man Utd,Senne Lammens
+Benjamin,Sesko,14,7.3,5.3,111,4,803.0,156.1,483.8,0,Man Utd,Benjamin Sesko
+Senne,Lammens,14,5.1,3.4,102,1,2.0,0.0,597.6,75,Man Utd,Senne Lammens
 Shea,Lacey,14,4.5,0.0,2,3,11.0,1.5,4.0,0,Man Utd,Shea Lacey
 Bendito,Mantato,14,4.5,0.0,1,3,0.0,11.7,2.2,0,Man Utd,Bendito Mantato
 Tyler,Fletcher,14,4.4,0.0,1,3,0.0,1.0,0.4,0,Man Utd,Tyler Fletcher
@@ -591,10 +591,10 @@ Alex,Murphy,15,3.8,0.7,1,2,0.0,0.0,2.2,0,Newcastle,Alex Murphy
 Harrison,Ashby,15,3.9,0.1,0,2,0.0,0.0,0.0,0,Newcastle,Harrison Ashby
 Miodrag,Pivaš,15,3.8,0.4,0,2,0.0,0.0,0.0,0,Newcastle,Miodrag Pivaš
 Matt,Targett,15,4.0,0.1,0,2,0.0,0.0,0.0,0,Newcastle,Matt Targett
-Anthony,Gordon,15,7.3,3.5,101,3,514.0,404.2,393.8,0,Newcastle,Anthony Gordon
+Anthony,Gordon,15,7.3,3.4,101,3,514.0,404.2,393.8,0,Newcastle,Anthony Gordon
 Anthony,Elanga,15,6.5,2.6,46,3,179.0,266.1,129.6,0,Newcastle,Anthony Elanga
 Harvey,Barnes,15,6.1,1.1,100,3,643.0,350.6,379.4,0,Newcastle,Harvey Barnes
-Bruno,Guimarães Rodriguez Moura,15,6.8,5.3,149,3,457.0,743.5,759.6,0,Newcastle,Bruno Guimarães Rodriguez Moura
+Bruno,Guimarães Rodriguez Moura,15,6.9,5.6,149,3,457.0,743.5,759.6,0,Newcastle,Bruno Guimarães Rodriguez Moura
 Jacob,Murphy,15,5.9,0.6,80,3,331.0,377.3,311.6,0,Newcastle,Jacob Murphy
 Joelinton Cássio,Apolinário de Lira,15,5.9,0.3,73,3,329.0,296.3,324.4,0,Newcastle,Joelinton Cássio Apolinário de Lira
 Sandro,Tonali,15,5.3,1.1,80,3,194.0,520.0,392.0,0,Newcastle,Sandro Tonali
@@ -629,9 +629,9 @@ Felipe,Rodrigues da Silva,16,4.3,0.1,40,2,61.0,33.5,285.0,0,Nott'm Forest,Felipe
 Omar,Richards,16,4.5,0.0,0,2,0.0,0.0,0.0,0,Nott'm Forest,Omar Richards
 Zach,Abbott,16,3.8,0.2,3,2,0.0,6.4,25.4,0,Nott'm Forest,Zach Abbott
 Willy,Boly,16,3.8,0.3,0,2,0.0,0.0,0.0,0,Nott'm Forest,Willy Boly
-Morgan,Gibbs-White,16,7.5,8.1,172,3,745.0,700.3,754.8,0,Nott'm Forest,Morgan Gibbs-White
+Morgan,Gibbs-White,16,7.5,7.6,172,3,745.0,700.3,754.8,0,Nott'm Forest,Morgan Gibbs-White
 Callum,Hudson-Odoi,16,5.7,0.6,88,3,330.0,611.7,366.6,0,Nott'm Forest,Callum Hudson-Odoi
-Elliot,Anderson,16,5.6,7.2,166,3,309.0,881.2,830.4,0,Nott'm Forest,Elliot Anderson
+Elliot,Anderson,16,5.6,7.3,166,3,309.0,881.2,830.4,0,Nott'm Forest,Elliot Anderson
 João Pedro,Ferreira da Silva,16,5.4,0.0,1,3,4.0,0.5,5.0,0,Nott'm Forest,João Pedro Ferreira da Silva
 Nicolás,Domínguez,16,5.0,0.0,45,3,126.0,174.6,237.8,0,Nott'm Forest,Nicolás Domínguez
 Lewis,O'Brien,16,5.0,0.0,0,3,0.0,0.0,0.0,0,Nott'm Forest,Lewis O'Brien
@@ -657,7 +657,7 @@ Jimmy,Sinclair,16,4.5,0.0,0,3,0.0,0.0,0.0,0,Nott'm Forest,Jimmy Sinclair
 Anthony,Patterson,17,4.2,0.1,0,1,0.0,0.0,0.0,0,Sunderland,Anthony Patterson
 Simon,Moore,17,3.9,0.3,0,1,0.0,0.0,0.0,0,Sunderland,Simon Moore
 Blondy,Nna Noukeu,17,3.9,0.1,0,1,0.0,0.0,0.0,0,Sunderland,Blondy Nna Noukeu
-Daniel,Ballard,17,4.7,2.7,116,2,370.0,181.2,662.8,0,Sunderland,Daniel Ballard
+Daniel,Ballard,17,4.7,2.6,116,2,370.0,181.2,662.8,0,Sunderland,Daniel Ballard
 Trai,Hume,17,4.5,0.3,101,2,226.0,353.6,495.2,0,Sunderland,Trai Hume
 Aji,Alese,17,4.0,0.0,0,2,0.0,0.0,0.0,0,Sunderland,Aji Alese
 Joe,Anderson,17,3.8,0.3,0,2,0.0,0.0,0.0,0,Sunderland,Joe Anderson
@@ -692,10 +692,10 @@ Ahmed,Abdullahi,17,4.2,0.4,0,4,0.0,0.0,0.0,0,Sunderland,Ahmed Abdullahi
 Luís Hemir,Silva Semedo,17,4.4,0.1,0,4,0.0,0.0,0.0,0,Sunderland,Luís Hemir Silva Semedo
 Nazarii,Rusyn,17,4.4,0.1,0,4,0.0,0.0,0.0,0,Sunderland,Nazarii Rusyn
 Granit,Xhaka,17,5.1,3.2,121,3,99.0,582.7,665.4,0,Sunderland,Granit Xhaka
-Robin,Roefs,17,4.8,8.2,131,1,0.0,40.0,844.8,104,Sunderland,Robin Roefs
+Robin,Roefs,17,4.8,8.1,131,1,0.0,40.0,844.8,104,Sunderland,Robin Roefs
 Arthur,Masuaku,17,3.9,0.5,1,2,7.0,20.1,21.8,0,Sunderland,Arthur Masuaku
 Omar,Alderete,17,4.1,5.6,124,2,279.0,137.8,747.0,0,Sunderland,Omar Alderete
-Nordi,Mukiele,17,4.6,8.5,145,2,213.0,329.1,698.4,0,Sunderland,Nordi Mukiele
+Nordi,Mukiele,17,4.6,8.6,145,2,213.0,329.1,698.4,0,Sunderland,Nordi Mukiele
 Lutsharel,Geertruida,17,4.5,0.1,52,2,101.0,130.8,254.4,0,Sunderland,Lutsharel Geertruida
 Brian,Brobbey,17,5.3,1.0,80,4,493.0,198.5,294.0,0,Sunderland,Brian Brobbey
 Bertrand,Traoré,17,5.5,0.0,30,3,135.0,108.4,115.6,0,Sunderland,Bertrand Traoré
@@ -706,7 +706,7 @@ Melker,Ellborg,17,4.0,0.1,16,1,0.0,0.0,73.6,10,Sunderland,Melker Ellborg
 Nilson,Angulo,17,5.0,0.0,10,3,64.0,39.1,38.4,0,Sunderland,Nilson Angulo
 Jack,Whittaker,17,4.5,0.0,0,3,0.0,0.0,0.0,0,Sunderland,Jack Whittaker
 Jaydon,Jones,17,4.5,0.0,0,3,0.0,0.0,0.0,0,Sunderland,Jaydon Jones
-Guglielmo,Vicario,18,4.7,4.8,90,1,0.0,10.1,709.2,83,Spurs,Guglielmo Vicario
+Guglielmo,Vicario,18,4.7,4.7,90,1,0.0,10.1,709.2,83,Spurs,Guglielmo Vicario
 Brandon,Austin,18,3.9,0.3,0,1,0.0,0.0,0.0,0,Spurs,Brandon Austin
 Antonín,Kinský,18,3.9,1.8,14,1,0.0,0.0,76.8,7,Spurs,Antonín Kinský
 Pedro,Porro Sauceda,18,5.2,10.7,107,2,194.0,779.7,645.2,0,Spurs,Pedro Porro Sauceda
@@ -716,12 +716,12 @@ Ben,Davies,18,4.3,0.1,10,2,52.0,22.2,67.4,0,Spurs,Ben Davies
 Radu,Drăgușin,18,4.5,0.0,16,2,27.0,3.2,125.6,0,Spurs,Radu Drăgușin
 Djed,Spence,18,4.1,0.9,71,2,184.0,206.7,280.6,0,Spurs,Djed Spence
 Destiny,Udogie,18,4.3,0.3,22,2,94.0,183.9,189.2,0,Spurs,Destiny Udogie
-Micky,van de Ven,18,4.4,17.6,110,2,212.0,93.6,655.2,0,Spurs,Micky van de Ven
+Micky,van de Ven,18,4.4,17.5,110,2,212.0,93.6,655.2,0,Spurs,Micky van de Ven
 Ashley,Phillips,18,4.0,0.0,0,2,0.0,0.0,0.0,0,Spurs,Ashley Phillips
 Takai,Kōta,18,4.0,0.0,0,2,0.0,0.0,0.0,0,Spurs,Takai Kōta
 Luka,Vušković,18,3.9,0.3,0,2,0.0,0.0,0.0,0,Spurs,Luka Vušković
 Son,Heung-min,18,8.5,0.1,0,3,0.0,0.0,0.0,0,Spurs,Son Heung-min
-James,Maddison,18,6.8,0.1,1,3,4.0,5.3,1.4,0,Spurs,James Maddison
+James,Maddison,18,6.8,0.2,1,3,4.0,5.3,1.4,0,Spurs,James Maddison
 Mohammed,Kudus,18,6.4,9.2,75,3,302.0,413.8,333.4,0,Spurs,Mohammed Kudus
 Dejan,Kulusevski,18,6.4,0.0,0,3,0.0,0.0,0.0,0,Spurs,Dejan Kulusevski
 Mathys,Tel,18,6.2,0.2,73,3,280.0,383.5,282.6,0,Spurs,Mathys Tel
@@ -775,7 +775,7 @@ George,Earthy,19,4.5,0.0,1,3,2.0,1.5,0.0,0,West Ham,George Earthy
 Andy,Irving,19,4.3,0.2,9,3,2.0,52.3,31.6,0,West Ham,Andy Irving
 Lewis,Orford,19,4.4,0.1,0,3,0.0,0.0,0.0,0,West Ham,Lewis Orford
 Freddie,Potts,19,4.3,0.5,37,3,37.0,141.3,191.2,0,West Ham,Freddie Potts
-Jarrod,Bowen,19,7.7,12.7,173,4,776.0,662.5,816.2,0,West Ham,Jarrod Bowen
+Jarrod,Bowen,19,7.7,12.6,173,4,776.0,662.5,816.2,0,West Ham,Jarrod Bowen
 Niclas,Füllkrug,19,5.6,0.6,12,4,130.0,85.1,26.0,0,West Ham,Niclas Füllkrug
 Callum,Marshall,19,4.3,0.5,2,4,7.0,0.1,1.2,0,West Ham,Callum Marshall
 Kyle,Walker-Peters,19,4.2,0.3,47,2,106.0,123.2,263.4,0,West Ham,Kyle Walker-Peters
